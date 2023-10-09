@@ -1,0 +1,4 @@
+{
+  "extends": "@zezzi-ui/ts-config/base.json",
+  "include": ["src"]
+}
